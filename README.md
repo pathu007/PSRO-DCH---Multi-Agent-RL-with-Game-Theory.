@@ -1,3 +1,6 @@
+### Follow [Open_spiel by DeepMind](https://github.com/deepmind/open_spiel) to Install OpenSpiel for research in general reinforcement learning and search/planning in games. 
+
+
 # A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
 
 ### Abstract:
