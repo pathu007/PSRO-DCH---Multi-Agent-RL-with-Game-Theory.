@@ -23,6 +23,7 @@ presented, rather than computing exact best response strategy, computes approxim
 response using reinforcement learning. Objective of project is to gain better understanding
 of the new Joint-policy metric, model the hierarchical approach defined and replicate the experimental results presented of Meta-strategy learning algorithm.
 
+### [click here, To access full report.]()
 
 ### References:
 
