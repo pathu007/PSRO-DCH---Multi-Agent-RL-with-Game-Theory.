@@ -23,7 +23,7 @@ presented, rather than computing exact best response strategy, computes approxim
 response using reinforcement learning. Objective of project is to gain better understanding
 of the new Joint-policy metric, model the hierarchical approach defined and replicate the experimental results presented of Meta-strategy learning algorithm.
 
-### [click here, To access full report.]()
+### [click here, To access full report.](https://github.com/pathu007/PSRO-DCH---Multi-Agent-RL-with-Game-Theory./blob/main/PSRO_DCH_Multi-Agent_RL.pdf)
 
 ### References:
 
