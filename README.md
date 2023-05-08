@@ -27,15 +27,15 @@ of the new Joint-policy metric, model the hierarchical approach defined and repl
 
 ### References:
 
-[1] D. Bloembergen, K. Tuyls, D. Hennes, and M. Kaisers. Evolutionary dynamics of multi-agent learning:
+- D. Bloembergen, K. Tuyls, D. Hennes, and M. Kaisers. Evolutionary dynamics of multi-agent learning:
 A survey. Journal of Artificial Intelligence Research, 53:659–697, 08 2015.
-[2] M. Lanctot, V. Zambaldi, A. Gruslys, A. Lazaridou, K. Tuyls, J. Perolat, D. Silver, and T. Graepel.
+- M. Lanctot, V. Zambaldi, A. Gruslys, A. Lazaridou, K. Tuyls, J. Perolat, D. Silver, and T. Graepel.
 A unified game-theoretic approach to multiagent reinforcement learning. In I. Guyon, U. V. Luxburg,
 S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, editors, Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017.
-[3] R. Sharma and M. Gopal. Synergizing reinforcement learning and game theory—a new direction for
+- R. Sharma and M. Gopal. Synergizing reinforcement learning and game theory—a new direction for
 control. Applied Soft Computing, 10(3):675–688, 2010.
-[4] K. G. Vamvoudakis, H. Modares, B. Kiumarsi, and F. L. Lewis. Game theory-based control system
+- K. G. Vamvoudakis, H. Modares, B. Kiumarsi, and F. L. Lewis. Game theory-based control system
 algorithms with real-time reinforcement learning: How to solve multiplayer games online. IEEE Control
 Systems Magazine, 37(1):33–52, 2017.
-[5] W. Walsh, R. Das, G. Tesauro, and J. Kephart. Analyzing complex strategic interactions in multi-agent
+- W. Walsh, R. Das, G. Tesauro, and J. Kephart. Analyzing complex strategic interactions in multi-agent
 systems. 01 2002.
